@@ -47,7 +47,7 @@
         "contrast": 23.745203245081083,
         "rolloff": 2540.4188547702815,
         "zcr": 0.06708693346440397,
-        "prediction": "classical"
+        "prediction": "training"
     },
     {
         "id": "classical.00002.au",
@@ -197,7 +197,7 @@
         "contrast": 22.264883264866832,
         "rolloff": 2273.285922625207,
         "zcr": 0.05393244257036424,
-        "prediction": "classical"
+        "prediction": "training"
     },
     {
         "id": "classical.00008.au",
@@ -1047,7 +1047,7 @@
         "contrast": 23.193042554058838,
         "rolloff": 2081.8757114031455,
         "zcr": 0.05467618222268212,
-        "prediction": "classical"
+        "prediction": "training"
     },
     {
         "id": "classical.00042.au",
@@ -1147,7 +1147,7 @@
         "contrast": 20.294624395332924,
         "rolloff": 1755.9186316483858,
         "zcr": 0.060862155939569534,
-        "prediction": "classical"
+        "prediction": "training"
     },
     {
         "id": "classical.00046.au",
@@ -1197,7 +1197,7 @@
         "contrast": 20.597049434172188,
         "rolloff": 1978.523466602856,
         "zcr": 0.05564142694536424,
-        "prediction": "classical"
+        "prediction": "training"
     },
     {
         "id": "classical.00048.au",
@@ -1272,7 +1272,7 @@
         "contrast": 20.761297004747178,
         "rolloff": 4772.599176065812,
         "zcr": 0.13904697847682118,
-        "prediction": "hiphop"
+        "prediction": "training"
     },
     {
         "id": "hiphop.00001.au",
@@ -1322,7 +1322,7 @@
         "contrast": 20.57346719219393,
         "rolloff": 2994.5769253156045,
         "zcr": 0.058134571605960264,
-        "prediction": "jazz"
+        "prediction": "training"
     },
     {
         "id": "hiphop.00003.au",
@@ -1622,7 +1622,7 @@
         "contrast": 20.769831849379557,
         "rolloff": 4838.981335368378,
         "zcr": 0.12291914579884106,
-        "prediction": "reggae"
+        "prediction": "training"
     },
     {
         "id": "hiphop.00015.au",
@@ -1647,7 +1647,7 @@
         "contrast": 19.51222174753567,
         "rolloff": 5226.11552863721,
         "zcr": 0.11292554842715231,
-        "prediction": "hiphop"
+        "prediction": "training"
     },
     {
         "id": "hiphop.00016.au",
@@ -1722,7 +1722,7 @@
         "contrast": 20.73330507676264,
         "rolloff": 5332.177249327401,
         "zcr": 0.12212690138658941,
-        "prediction": "hiphop"
+        "prediction": "training"
     },
     {
         "id": "hiphop.00019.au",
@@ -1772,7 +1772,7 @@
         "contrast": 23.801091142976986,
         "rolloff": 5328.362592482409,
         "zcr": 0.08295284043874172,
-        "prediction": "reggae"
+        "prediction": "training"
     },
     {
         "id": "hiphop.00021.au",
@@ -1822,7 +1822,7 @@
         "contrast": 20.591764879108112,
         "rolloff": 4669.817347242342,
         "zcr": 0.07262617704884106,
-        "prediction": "hiphop"
+        "prediction": "training"
     },
     {
         "id": "hiphop.00023.au",
@@ -1872,7 +1872,7 @@
         "contrast": 19.17295666531449,
         "rolloff": 5028.430741670116,
         "zcr": 0.1376322563120861,
-        "prediction": "hiphop"
+        "prediction": "training"
     },
     {
         "id": "hiphop.00025.au",
@@ -2022,7 +2022,7 @@
         "contrast": 15.125279516080033,
         "rolloff": 7590.525403559603,
         "zcr": 0.178209721647351,
-        "prediction": "hiphop"
+        "prediction": "training"
     },
     {
         "id": "hiphop.00031.au",
@@ -2047,7 +2047,7 @@
         "contrast": 16.806544752816794,
         "rolloff": 6318.319520255588,
         "zcr": 0.12203150869205298,
-        "prediction": "pop"
+        "prediction": "training"
     },
     {
         "id": "hiphop.00032.au",
@@ -2072,7 +2072,7 @@
         "contrast": 16.141557052021714,
         "rolloff": 4524.254320157284,
         "zcr": 0.07127774472268211,
-        "prediction": "pop"
+        "prediction": "training"
     },
     {
         "id": "hiphop.00033.au",
@@ -2147,7 +2147,7 @@
         "contrast": 16.829514009511662,
         "rolloff": 6165.091528481995,
         "zcr": 0.09969991721854304,
-        "prediction": "hiphop"
+        "prediction": "training"
     },
     {
         "id": "hiphop.00036.au",
@@ -2322,7 +2322,7 @@
         "contrast": 19.131175814032634,
         "rolloff": 5813.857890754346,
         "zcr": 0.09635955608443708,
-        "prediction": "hiphop"
+        "prediction": "training"
     },
     {
         "id": "hiphop.00043.au",
@@ -2372,7 +2372,7 @@
         "contrast": 20.044645551279963,
         "rolloff": 4865.576980287666,
         "zcr": 0.21281463420943708,
-        "prediction": "classical"
+        "prediction": "training"
     },
     {
         "id": "hiphop.00045.au",
@@ -2647,7 +2647,7 @@
         "contrast": 24.011749362455166,
         "rolloff": 3871.5201876810843,
         "zcr": 0.06720819536423842,
-        "prediction": "jazz"
+        "prediction": "training"
     },
     {
         "id": "jazz.00006.au",
@@ -2672,7 +2672,7 @@
         "contrast": 23.155398007191028,
         "rolloff": 2100.164673659975,
         "zcr": 0.04054189517798013,
-        "prediction": "jazz"
+        "prediction": "training"
     },
     {
         "id": "jazz.00007.au",
@@ -2722,7 +2722,7 @@
         "contrast": 23.121975681975908,
         "rolloff": 2724.8771212748343,
         "zcr": 0.04901729356374172,
-        "prediction": "jazz"
+        "prediction": "training"
     },
     {
         "id": "jazz.00009.au",
@@ -2847,7 +2847,7 @@
         "contrast": 21.241159222352223,
         "rolloff": 4452.274954082161,
         "zcr": 0.06165925082781457,
-        "prediction": "jazz"
+        "prediction": "training"
     },
     {
         "id": "jazz.00014.au",
@@ -2897,7 +2897,7 @@
         "contrast": 21.327010481507276,
         "rolloff": 3942.430023799669,
         "zcr": 0.07211040976821192,
-        "prediction": "jazz"
+        "prediction": "training"
     },
     {
         "id": "jazz.00016.au",
@@ -2972,7 +2972,7 @@
         "contrast": 22.340595344134044,
         "rolloff": 4177.0492452659355,
         "zcr": 0.08672974441225166,
-        "prediction": "jazz"
+        "prediction": "training"
     },
     {
         "id": "jazz.00019.au",
@@ -2997,7 +2997,7 @@
         "contrast": 23.12138966947292,
         "rolloff": 2690.973021652525,
         "zcr": 0.058115169701986755,
-        "prediction": "jazz"
+        "prediction": "training"
     },
     {
         "id": "jazz.00020.au",
@@ -3122,7 +3122,7 @@
         "contrast": 20.92848623545649,
         "rolloff": 5011.140007372724,
         "zcr": 0.1097193837955298,
-        "prediction": "hiphop"
+        "prediction": "training"
     },
     {
         "id": "jazz.00025.au",
@@ -3347,7 +3347,7 @@
         "contrast": 20.27775309924658,
         "rolloff": 2349.293851536631,
         "zcr": 0.03615221440397351,
-        "prediction": "jazz"
+        "prediction": "training"
     },
     {
         "id": "jazz.00034.au",
@@ -3397,7 +3397,7 @@
         "contrast": 21.85185541689425,
         "rolloff": 1601.3002509312914,
         "zcr": 0.03444969733029801,
-        "prediction": "jazz"
+        "prediction": "training"
     },
     {
         "id": "jazz.00036.au",
@@ -3522,7 +3522,7 @@
         "contrast": 22.055540156592937,
         "rolloff": 2929.1216919753724,
         "zcr": 0.05919197537251655,
-        "prediction": "jazz"
+        "prediction": "training"
     },
     {
         "id": "jazz.00041.au",
@@ -3547,7 +3547,7 @@
         "contrast": 22.610984879124693,
         "rolloff": 3464.2431802307533,
         "zcr": 0.11404762520695365,
-        "prediction": "jazz"
+        "prediction": "training"
     },
     {
         "id": "jazz.00042.au",
@@ -3597,7 +3597,7 @@
         "contrast": 25.37641491940575,
         "rolloff": 3401.71132877173,
         "zcr": 0.0919100527731788,
-        "prediction": "jazz"
+        "prediction": "training"
     },
     {
         "id": "jazz.00044.au",
@@ -3747,7 +3747,7 @@
         "contrast": 20.908858269981184,
         "rolloff": 5605.9769182015725,
         "zcr": 0.0728978037044702,
-        "prediction": "hiphop"
+        "prediction": "training"
     },
     {
         "id": "pop.00000.au",
@@ -3772,7 +3772,7 @@
         "contrast": 19.50675585501099,
         "rolloff": 8382.33408138452,
         "zcr": 0.13592650558774835,
-        "prediction": "pop"
+        "prediction": "training"
     },
     {
         "id": "pop.00001.au",
@@ -3972,7 +3972,7 @@
         "contrast": 18.45394420418162,
         "rolloff": 6351.367995912666,
         "zcr": 0.08122283733443708,
-        "prediction": "pop"
+        "prediction": "training"
     },
     {
         "id": "pop.00009.au",
@@ -4247,7 +4247,7 @@
         "contrast": 17.85350325735509,
         "rolloff": 6964.743425988204,
         "zcr": 0.14393625827814568,
-        "prediction": "pop"
+        "prediction": "training"
     },
     {
         "id": "pop.00020.au",
@@ -4297,7 +4297,7 @@
         "contrast": 15.32764622090575,
         "rolloff": 7161.822145979925,
         "zcr": 0.201441884830298,
-        "prediction": "hiphop"
+        "prediction": "training"
     },
     {
         "id": "pop.00022.au",
@@ -4497,7 +4497,7 @@
         "contrast": 18.84197789611852,
         "rolloff": 6637.716816276904,
         "zcr": 0.10249864186672185,
-        "prediction": "pop"
+        "prediction": "training"
     },
     {
         "id": "pop.00030.au",
@@ -4522,7 +4522,7 @@
         "contrast": 17.730771942695927,
         "rolloff": 6478.962919727856,
         "zcr": 0.12938483029801323,
-        "prediction": "pop"
+        "prediction": "training"
     },
     {
         "id": "pop.00031.au",
@@ -4872,7 +4872,7 @@
         "contrast": 17.434296206757743,
         "rolloff": 6336.786737505174,
         "zcr": 0.12057959954470199,
-        "prediction": "pop"
+        "prediction": "training"
     },
     {
         "id": "pop.00045.au",
@@ -5022,7 +5022,7 @@
         "contrast": 23.262117163845797,
         "rolloff": 4944.116130096233,
         "zcr": 0.09400545840231789,
-        "prediction": "reggae"
+        "prediction": "training"
     },
     {
         "id": "reggae.00001.au",
@@ -5072,7 +5072,7 @@
         "contrast": 21.950686126550764,
         "rolloff": 3704.709165459437,
         "zcr": 0.06987272350993377,
-        "prediction": "jazz"
+        "prediction": "training"
     },
     {
         "id": "reggae.00003.au",
@@ -5147,7 +5147,7 @@
         "contrast": 22.079670935267682,
         "rolloff": 3784.816959204263,
         "zcr": 0.0786440009312914,
-        "prediction": "jazz"
+        "prediction": "training"
     },
     {
         "id": "reggae.00006.au",
@@ -5222,7 +5222,7 @@
         "contrast": 22.67722736265543,
         "rolloff": 3939.7561989083197,
         "zcr": 0.0700618920736755,
-        "prediction": "reggae"
+        "prediction": "training"
     },
     {
         "id": "reggae.00009.au",
@@ -5322,7 +5322,7 @@
         "contrast": 21.123782896197607,
         "rolloff": 5190.821040071399,
         "zcr": 0.15295814362582782,
-        "prediction": "classical"
+        "prediction": "training"
     },
     {
         "id": "reggae.00013.au",
@@ -5347,7 +5347,7 @@
         "contrast": 22.612142918399933,
         "rolloff": 3161.138390547392,
         "zcr": 0.06534399575745033,
-        "prediction": "reggae"
+        "prediction": "training"
     },
     {
         "id": "reggae.00014.au",
@@ -5447,7 +5447,7 @@
         "contrast": 21.57275256333149,
         "rolloff": 3330.5519356632863,
         "zcr": 0.06781450486341059,
-        "prediction": "reggae"
+        "prediction": "training"
     },
     {
         "id": "reggae.00018.au",
@@ -5597,7 +5597,7 @@
         "contrast": 21.476950522868883,
         "rolloff": 3952.1627464041803,
         "zcr": 0.07670542735927152,
-        "prediction": "reggae"
+        "prediction": "training"
     },
     {
         "id": "reggae.00024.au",
@@ -5672,7 +5672,7 @@
         "contrast": 21.47215555817196,
         "rolloff": 3878.044320415977,
         "zcr": 0.06966900351821192,
-        "prediction": "reggae"
+        "prediction": "training"
     },
     {
         "id": "reggae.00027.au",
@@ -5822,7 +5822,7 @@
         "contrast": 20.865314068889433,
         "rolloff": 3218.643451210679,
         "zcr": 0.08343465438741722,
-        "prediction": "jazz"
+        "prediction": "training"
     },
     {
         "id": "reggae.00033.au",
@@ -5872,7 +5872,7 @@
         "contrast": 21.02056533813311,
         "rolloff": 2834.2187338317467,
         "zcr": 0.04455808930049669,
-        "prediction": "reggae"
+        "prediction": "training"
     },
     {
         "id": "reggae.00035.au",
@@ -5897,7 +5897,7 @@
         "contrast": 20.94539295324996,
         "rolloff": 3599.039605753311,
         "zcr": 0.058778068087748346,
-        "prediction": "jazz"
+        "prediction": "training"
     },
     {
         "id": "reggae.00036.au",
@@ -5972,7 +5972,7 @@
         "contrast": 22.61227381922988,
         "rolloff": 3889.024827969785,
         "zcr": 0.07600695881622517,
-        "prediction": "jazz"
+        "prediction": "training"
     },
     {
         "id": "reggae.00039.au",
@@ -6122,7 +6122,7 @@
         "contrast": 17.185514809046463,
         "rolloff": 5423.94291959851,
         "zcr": 0.08158985668460265,
-        "prediction": "pop"
+        "prediction": "training"
     },
     {
         "id": "reggae.00045.au",
